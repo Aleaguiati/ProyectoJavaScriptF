@@ -17,12 +17,12 @@ function multiplicacion(){
     let numerodos=10
     let numerotres=4;
     let resultado=numerouno*numerodos*numerotres;
-    alert("la multiplicacion es"+ resultado);
+    alert("la multiplicacion es "+ resultado);
 }
 function division(){
     let numerouno=2;
     let numerodos=10
     let numerotres=4;
     let resultado=numerouno/numerodos/numerotres;
-    alert("la division es"+ resultado);
+    alert("la division es "+ resultado);
 }
